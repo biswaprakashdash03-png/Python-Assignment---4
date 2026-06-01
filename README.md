@@ -1,6 +1,6 @@
 # Python Assignment-4 Programs 🐍
 
-This repository contains beginner-friendly Python programs focused on loops, conditional statements, arithmetic operations, and user input handling.
+
 
 ## Programs Included
 
